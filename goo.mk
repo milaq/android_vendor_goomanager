@@ -4,7 +4,7 @@
 
 PRODUCT_PROPERTY_OVERRIDES += \
         ro.goo.developerid=milaq \
-        ro.goo.rom=cm10.1nightly \
+        ro.goo.rom=cm10.2nightly \
         ro.goo.version=$(shell date +%s)
 
 # include goo manager
